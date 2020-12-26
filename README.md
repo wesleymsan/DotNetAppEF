@@ -1,7 +1,8 @@
 # DotNetApp
 
-## Build and run local
-### Application .Net using Entity Framework Core
+## Application .Net using Entity Framework Core
+
+### Build and run local
 1. Clone this repo
 2. Build the docker image  
 `docker-compose build`
